@@ -19,10 +19,8 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- We got R squared value as 82.7%
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- We got R squared value as 82.7% for test set and 81.1% for train set which are similar and it shows that our model explains the variance correctly.
+- Mean squared error is almost 0 for both training and test sets hence our model is predicting accuratley.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
